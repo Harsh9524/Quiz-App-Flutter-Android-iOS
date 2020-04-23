@@ -1,4 +1,4 @@
-<img align="center" width="400" height="800" src="screenshot.png">
+<img align="center" width="400" height="800" src=screenshot.png>
 
 ## Getting Started
 
