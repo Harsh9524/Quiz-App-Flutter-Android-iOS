@@ -1,4 +1,4 @@
-![720x360](Screenshot.png){:height="700px" width="400px"}
+![Screenshot|720x360](Screenshot.png)
 
 ## Getting Started
 
