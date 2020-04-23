@@ -1,4 +1,4 @@
-![](Screenshot.png)
+![](Screenshot.png=250x250)
 
 ## Getting Started
 
