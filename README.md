@@ -1,4 +1,4 @@
-[!screemshot.png]
+![](Screenshot.png)
 
 ## Getting Started
 
