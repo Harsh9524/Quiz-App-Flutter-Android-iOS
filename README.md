@@ -1,4 +1,4 @@
-![](Screenshot.png=250x250)
+![](Screenshot.png)<!-- .element height="50%" width="50%" -->
 
 ## Getting Started
 
