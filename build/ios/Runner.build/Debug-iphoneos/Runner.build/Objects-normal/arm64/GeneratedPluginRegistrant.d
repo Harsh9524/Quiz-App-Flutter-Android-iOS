@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/harshpanwar/Desktop/toolbox/first_app/ios/Flutter/Flutter.framework/Headers/Flutter.h
